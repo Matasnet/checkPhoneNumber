@@ -20,7 +20,7 @@ Using API from OpenCage
 To run this project, you need instal PIP:
 * folium
 * phonenumbers
-And has API from OpenCage
+And need API from OpenCage
 
 ```
 from http import server
